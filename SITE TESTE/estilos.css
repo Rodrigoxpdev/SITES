@@ -14,7 +14,7 @@ header{
     display: flexbox;
     background-color: black;
     padding: 20px;
-    background-image: linear-gradient(to right, black, blueviolet);
+    background-image: linear-gradient(to right, black, rgb(80, 226, 43));
 }
 
 header > h1{
